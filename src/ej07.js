@@ -13,5 +13,5 @@ console.log(`La moneda del país ${codigoPais} es: ${monedaDelPais}`);
 function obtenerMoneda(codigo_pais){
     let ab = getCountryByAbbreviation(codigo_pais);
     let moneda = getCurrencyAbbreviation(ab);
-    return moneda;
+    return moneda;;
 }
