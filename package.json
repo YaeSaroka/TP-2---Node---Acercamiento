@@ -12,11 +12,12 @@
     "ej04": "node src/ej04.js",
     "ej05": "node src/ej05.js",
     "ej06": "node src/ej06.js",
-    "ej07": "node src/ej07.js"
+    "ej07": "node src/ej07.js",
+    "ej08": "node src/ej08.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/YaeSaroka/DAI-2024.git"
+    "url": "https://github.com/YaeSaroka/DAI-2024.git"
   },
   "author": "camiyyae",
   "license": "ISC",
@@ -25,6 +26,7 @@
   },
   "homepage": "https://github.com/YaeSaroka/DAI-2024#readme",
   "dependencies": {
+    "axios": "^1.6.8",
     "currency-map-country": "^1.0.12"
   }
 }
